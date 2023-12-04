@@ -19,6 +19,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 | Desfazendo alterações no repositório local | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3f9f2336-6fd5-44cb-ba39-d1a4f6448023?back=/track/decola-tech-avanade-net-developer&tab=undefined&moduleId=undefined) | [Resumo](https://docs.google.com/document/d/13eV5cfv5aup495uBPLcrp-gs2z_uLEtLUWQLMy8RJGI/edit?usp=sharing)
 | Enviando e baixando alterações com o repositório remoto | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/dd17c56e-2327-493c-942a-358a49a26549?back=/track/decola-tech-avanade-net-developer&tab=undefined&moduleId=undefined) | [Resumo](https://docs.google.com/document/d/1xNqRmmsDAQB2kED3jPekVv9EQfTxiNXWcTi4XbKKGCs/edit?usp=sharing)
 | Trabalhando com Branches I| [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/decola-tech-avanade-net-developer&tab=undefined&moduleId=undefined) | [Resumo](https://docs.google.com/document/d/1bdJ3xg3u4Nm7BE_rc_SyZQEfdFgFgXYTTcvGXeDZj1I/edit)
+| Trabahando com Branches II | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/80018fab-daac-4917-8527-a6be2e0c3cf0?back=/track/decola-tech-avanade-net-developer&tab=undefined&moduleId=undefined) | [Resumo](https://docs.google.com/document/d/1YxoiRVQ5WfBycqpAx1hbfALzQZ6B4DQPH2pZ8XGBc5c/edit?usp=sharing)
 
 ## 📝Referências
 
